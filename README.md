@@ -19,7 +19,7 @@ This project is a real-time hand gesture recognition system designed for fast an
 
 ## 📁 Dataset
 
-- File: `home/hand_sign_landmarks.csv`
+- File: `signfinity/hand_sign_landmarks.csv`
 - Format:
   - Column 0: Label (1 to 5)
   - Columns 1–63: Flattened (x, y, z) coordinates from 21 landmarks
