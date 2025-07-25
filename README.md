@@ -1,6 +1,3 @@
-# SIGNFINITY
-This project is a real-time hand gesture recognition system designed for fast and accurate gesture detection. It uses Mediapipe for hand tracking and Random Forest with PCA for gesture classification. The model recognizes five gestures: Hello, Sorry, Thanks, Yes, and No with high accuracy. 
-
 # ✋ Signfinity – Real-Time Hand Gesture Recognition
 
 **Signfinity** is a real-time hand gesture recognition system using a webcam to identify five predefined gestures: "Hello", "Yes", "No", "Thanks", and "Sorry". It leverages **MediaPipe** for hand landmark detection and a machine learning pipeline involving **PCA** and **Random Forest Classifier** to make accurate predictions in real time.
